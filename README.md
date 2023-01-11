@@ -10,7 +10,7 @@
 
 - 📫 How to reach me: **poojaparab9035@gmail.com** or **pooparab@iu.edu**
 
-- 📄 Know about my experiences: [https://github.com/poojaparab/poojaparab/blob/main/Pooja_Parab.pdf](https://github.com/poojaparab/poojaparab/blob/main/Pooja_Parab.pdf)
+- 📄 Know about my experiences: [Resume Download](https://github.com/poojaparab/poojaparab/blob/main/Pooja_Parab.pdf)
 
 
 <h3 align="left">Connect with me:</h3>
