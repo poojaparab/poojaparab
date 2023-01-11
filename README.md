@@ -20,4 +20,3 @@
 <a href="https://instagram.com/_pooja.parab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_pooja.parab" height="30" width="40" /></a>
 </p>
 
-
