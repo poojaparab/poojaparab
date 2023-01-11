@@ -3,7 +3,7 @@
 
 
 
-<p><img align="right" src="https://github.com/poojaparab/poojaparab/blob/main/animation_500_kxa883sd.gif" alt="pooja parab" /></p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
 - 🌱 I’m currently learning Machine learning and algorithms
@@ -20,3 +20,13 @@
 <a href="https://instagram.com/_pooja.parab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_pooja.parab" height="30" width="40" /></a>
 </p>
 
+
+<h3 align="left">Some of my work:</h3>
+<p align="left">
+
+- 👨‍💻	 **[Aspect Based Sentiment Analysis](https://github.com/poojaparab/Aspect-Based-Sentiment-Analysis)**
+- 👨‍💻 **[Price Optimization of E-commerce Platform](https://github.com/poojaparab/Price-Optimization-of-E-commerce-platform)**
+- 👨‍💻 **[Network Analysis of Game of Thrones](https://github.com/poojaparab/Network-Analysis-of-Game-of-Thrones)**
+- 👨‍💻 **[Predicting credit card approvals](https://github.com/poojaparab/predicting-credit-card-approvals)**
+- 👨‍💻 **[All the Data Mining course homework](https://github.com/poojaparab/Data-mining-homeworks)**
+</p>
