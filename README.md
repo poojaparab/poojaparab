@@ -26,7 +26,6 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=poojaparab&show_icons=true&locale=en" alt="poojaparab" /></p>
 
 
 <h3 align="center">Connect with me:</h3>
@@ -37,7 +36,7 @@
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=poojaparab&show_icons=true&locale=en" alt="poojaparab" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=poojaparab&show_icons=true&locale=en" alt="poojaparab" /></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=poojaparab&label=Profile%20views&color=0e75b6&style=flat" alt="poojaparab" /> </p>
 
