@@ -26,7 +26,7 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=poojaparab&show_icons=true&locale=en" alt="poojaparab" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=poojaparab&show_icons=true&locale=en" alt="poojaparab" /></p>
 
 
 <h3 align="center">Connect with me:</h3>
