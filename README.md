@@ -13,7 +13,7 @@
 - 📄 Know about my experiences: [Resume Download](https://github.com/poojaparab/poojaparab/blob/main/Pooja_Parab.pdf)
 
 
-<h3 align="center">Some of my work:</h3>
+<h3 align="left">Some of my work:</h3>
 <p align="right">
 
 - 👨‍💻	 **[Aspect Based Sentiment Analysis](https://github.com/poojaparab/Aspect-Based-Sentiment-Analysis)**
