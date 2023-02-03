@@ -32,3 +32,6 @@
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=poojaparab&show_icons=true&locale=en" alt="poojaparab" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=poojaparab&label=Profile%20views&color=0e75b6&style=flat" alt="poojaparab" /> </p>
+
