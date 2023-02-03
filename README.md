@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Pooja Parab</h1>
-<h3 align="center">Graduate Data Science Student at Indiana University, Bloomington.🌟.</h3>
+<h1 align="center">Hi👋, I'm Pooja Parab</h1>
+<h3 align="center">Graduate Data Science Student at Indiana University, Bloomington.</h3>
 
 
 
