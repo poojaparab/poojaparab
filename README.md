@@ -30,3 +30,5 @@
 - 👨‍💻 **[Predicting credit card approvals](https://github.com/poojaparab/predicting-credit-card-approvals)**
 - 👨‍💻 **[All the Data Mining course homework](https://github.com/poojaparab/Data-mining-homeworks)**
 </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=poojaparab&show_icons=true&locale=en" alt="poojaparab" /></p>
