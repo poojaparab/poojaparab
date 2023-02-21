@@ -22,7 +22,7 @@
 - 👨‍💻 **[Predicting credit card approvals](https://github.com/poojaparab/predicting-credit-card-approvals)**
 - 👨‍💻 **[Uber and Lyft Fare Prediction Model](https://github.com/poojaparab/UBER-and-Lyft-Fare-Prediction-Model)**
 - 👨‍💻 **[All the Data Mining course homework](https://github.com/poojaparab/Data-mining-homeworks)**
-- 👨‍💻 **[Scala's real world project repository data exploration]  (https://github.com/poojaparab/Scala-Real-world-Project-repository-Data-exploration)**
+- 👨‍💻 **[Scala's real world project repository data exploration](https://github.com/poojaparab/Scala-Real-world-Project-repository-Data-exploration)**
 </p>
 
 
