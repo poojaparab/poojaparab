@@ -20,6 +20,7 @@
 - 👨‍💻 **[Price Optimization of E-commerce Platform](https://github.com/poojaparab/Price-Optimization-of-E-commerce-platform)**
 - 👨‍💻 **[Network Analysis of Game of Thrones](https://github.com/poojaparab/Network-Analysis-of-Game-of-Thrones)**
 - 👨‍💻 **[Predicting credit card approvals](https://github.com/poojaparab/predicting-credit-card-approvals)**
+- 👨‍💻 **[Uber and Lyft Fare Prection Model](https://github.com/poojaparab/UBER-and-Lyft-Fare-Prediction-Model)**
 - 👨‍💻 **[All the Data Mining course homework](https://github.com/poojaparab/Data-mining-homeworks)**
 </p>
 
