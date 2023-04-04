@@ -4,8 +4,10 @@
 <h4 align="center">Currently I'm either working or chilling with books.</h3>
 
 
-<p><img align="right" src="https://github.com/poojaparab/poojaparab/blob/dev_1/Fotor_AI%20(1).png" alt="adam-pw" />
-<img align="left" src="https://github.com/poojaparab/poojaparab/blob/dev_1/Fotor_AI.png" alt="adam-pw" /></p>
+
+ | <img align="center" src="https://github.com/poojaparab/poojaparab/blob/dev_1/Fotor_AI%20(1).png" alt="adam-pw" width="400"/> | <img align="center" src="https://github.com/poojaparab/poojaparab/blob/dev_1/Fotor_AI.png" alt="adam-pw" width="400"/> |
+| --- | --- |
+| *Chilling* | *Working* |
 
 
 - 🌱 I’m currently learning Machine learning and algorithms
