@@ -4,8 +4,8 @@
 <h4 align="center">Currently I'm either working or chilling with books.</h3>
 
 
-<p><img align="right" src="C:\Users\Pooja Parab\OneDrive\Documents\GitHub\poojaparab\Fotor_AI (1).png" alt="adam-pw" />
-<img align="left" src="C:\Users\Pooja Parab\OneDrive\Documents\GitHub\poojaparab\Fotor_AI.png" alt="adam-pw" /></p>
+<p><img align="right" src="https://github.com/poojaparab/poojaparab/blob/dev_1/Fotor_AI%20(1).png" alt="adam-pw" />
+<img align="left" src="https://github.com/poojaparab/poojaparab/blob/dev_1/Fotor_AI.png" alt="adam-pw" /></p>
 
 
 - 🌱 I’m currently learning Machine learning and algorithms
