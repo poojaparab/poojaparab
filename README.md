@@ -1,9 +1,11 @@
 <h1 align="center">Hi👋, I'm Pooja Parab</h1>
 <h3 align="center">Graduate Data Science Student at Indiana University, Bloomington.</h3>
 
+<h4 align="center">Currently I'm either working or chilling with books.</h3>
 
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" src="C:\Users\Pooja Parab\OneDrive\Documents\GitHub\poojaparab\Fotor_AI (1).png" alt="adam-pw" />
+<img align="left" src="C:\Users\Pooja Parab\OneDrive\Documents\GitHub\poojaparab\Fotor_AI.png" alt="adam-pw" /></p>
 
 
 - 🌱 I’m currently learning Machine learning and algorithms
@@ -14,14 +16,23 @@
 
 
 <h3 align="left">Some of my work:</h3>
+
 <p align="left">
 
 - 👨‍💻	 **[Aspect Based Sentiment Analysis](https://github.com/poojaparab/Aspect-Based-Sentiment-Analysis)**
+
+- 👨‍💻	 **[Spotify Hit Songs Predictor](https://github.com/poojaparab/Spotify-hit-song-predictor)**
+
 - 👨‍💻 **[Price Optimization of E-commerce Platform](https://github.com/poojaparab/Price-Optimization-of-E-commerce-platform)**
+
 - 👨‍💻 **[Network Analysis of Game of Thrones](https://github.com/poojaparab/Network-Analysis-of-Game-of-Thrones)**
+
 - 👨‍💻 **[Predicting credit card approvals](https://github.com/poojaparab/predicting-credit-card-approvals)**
+
 - 👨‍💻 **[Uber and Lyft Fare Prediction Model](https://github.com/poojaparab/UBER-and-Lyft-Fare-Prediction-Model)**
+
 - 👨‍💻 **[All the Data Mining course homework](https://github.com/poojaparab/Data-mining-homeworks)**
+
 - 👨‍💻 **[Scala's real world project repository data exploration](https://github.com/poojaparab/Scala-Real-world-Project-repository-Data-exploration)**
 
 </p>
