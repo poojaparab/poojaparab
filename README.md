@@ -27,14 +27,19 @@
 
 # Projects:
 
+<br>
 
 <img align="left" width="250" height="200" src="https://github.com/poojaparab/poojaparab/blob/dev_1/uberlyft.webp">**[Uber and Lyft Fare Prediction Model](https://github.com/poojaparab/UBER-and-Lyft-Fare-Prediction-Model)**
+
 
 **Objective**: Created fare price prediction model for ride hailing companies Uber and Lyft in the greater Boston area. 
 
 **Implementation**: Used Linear regression with closed form solution and stocastic gradient descent. Explored the impact of regularization by trying Ridge, Lasso, Elastic-Net, penalty term and hyperparameters like batch size and learning rate. Developed the same in polynomial regression.
 
-#
+<br/>
+
+
+<br>
 
 <img align="left" width="250" height="200" src="https://github.com/poojaparab/poojaparab/blob/dev_1/absa.png">**[Aspect Based Sentiment Analysis](https://github.com/poojaparab/Aspect-Based-Sentiment-Analysis)**
 
@@ -42,7 +47,10 @@
 
 **Implementation**: Using Corefernce Resolution (with nerualcoref library), Stanza (previously standfordcore NLP) , textblob and fundamental grammer rules extracted aspect, opinion and polarity. Built a custom docker container, deployed it on AWS Sagemaker, and tested the robustness of the algorithm with the yelp dataset.
 
-#
+<br/>
+
+
+<br>
 
 <img align="left" width="250" height="200" src="https://github.com/poojaparab/poojaparab/blob/dev_1/spotify-logo-1920x1080.jpg">**[Spotify Hit Songs Predictor](https://github.com/poojaparab/Spotify-hit-song-predictor)**
 
@@ -50,17 +58,18 @@
 
 **Implementation**: Used Multinomial Logistic Regression, Support vector Machine, Random forest Classifier. Tried optimization of hyperparameters to maximize the performance. Implemented ensemble learning on individual outperforming classifiers.
 
+<br/>
 
-#
+<br>
 
-
-<img align="left" width="220" height="200" src="https://github.com/poojaparab/poojaparab/blob/dev_1/olist_.png">**[Price Optimization of E-commerce Platform](https://github.com/poojaparab/Price-Optimization-of-E-commerce-platform)**
+<img align="left" width="250" height="200" src="https://github.com/poojaparab/poojaparab/blob/dev_1/olist_.png">**[Price Optimization of E-commerce Platform](https://github.com/poojaparab/Price-Optimization-of-E-commerce-platform)**
 
 **Objective**: Attempted to predict the best best optimal price of the product yet increase their profit margin using data mining techniques, Regression models (Linear Ridge, Lasso) and demad curve.
 
 **Implementation**: Used linear regression, principal component analysis. Plotted a demand curve by using profit and demand functions to get the optimal price of the product.
 
-#
+<br/>
+
 
 
 # Mirco-Projects
