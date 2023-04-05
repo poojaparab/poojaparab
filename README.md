@@ -42,11 +42,16 @@
 
 **Implementation**: Using Corefernce Resolution (with nerualcoref library), Stanza (previously standfordcore NLP) , textblob and fundamental grammer rules extracted aspect, opinion and polarity.
 
+#
+
 <img align="left" width="250" height="200" src="https://github.com/poojaparab/poojaparab/blob/dev_1/spotify-logo-1920x1080.jpg">**[Spotify Hit Songs Predictor](https://github.com/poojaparab/Spotify-hit-song-predictor)**
 
 **Objective**: To predict the spotify songs from 1960s-2010s will be hit or miss.
 
 **Implementation**: Used Multinomial Logistic Regression, Support vector Machine, Random forest Classifier. Tried optimization of hyperparameters to maximize the performance. Implemented ensemble learning on individual outperforming classifiers.
+
+#
+
 
 
 <!-- 
