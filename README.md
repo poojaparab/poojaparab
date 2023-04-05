@@ -4,7 +4,7 @@
 
 | <img src="https://github.com/poojaparab/poojaparab/blob/main/Fotor_AI%20(1).png" alt="adam-pw" width="250" /> | <img src="https://github.com/poojaparab/poojaparab/blob/main/Fotor_AI.png" alt="adam-pw" width="250"/> |
 | --- | --- |
-<h5>Effortlessly shifts between world of data and novel-induced euphoria - that's me!</h5>
+<h4>Effortlessly shifts between world of data and novel-induced euphoria - that's me!</h4>
 </div>
 
 
@@ -54,6 +54,7 @@
 **Objective**: Attempted to predict the best best optimal price of the product yet increase their profit margin using data mining techniques, Regression models (Linear Ridge, Lasso) and demad curve.
 
 **Implementation**: Used linear regression, principal component analysis. Plotted a demand curve by using profit and demand functions to get the optimal price of the product.
+<br>
 <br>
 <br>
 
