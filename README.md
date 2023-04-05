@@ -1,12 +1,12 @@
 <h1 align="center">Hi👋, I'm Pooja Parab</h1>
 <!-- <h3 align="center">Graduate Data Science Student at Indiana University, Bloomington.</h3> -->
 
-<center>
+<div align="center">
 
 | <img src="https://github.com/poojaparab/poojaparab/blob/dev_1/Fotor_AI%20(1).png" alt="adam-pw" width="250" /> | <img src="https://github.com/poojaparab/poojaparab/blob/dev_1/Fotor_AI.png" alt="adam-pw" width="250"/> |
 | --- | --- |
-<h5 align="center">effortlessly shifts between world's of coding and novel-induced euphoria - that's me!</h5>
-</center>
+<h5>effortlessly shifts between world's of coding and novel-induced euphoria - that's me!</h5>
+</div>
 
 
 
