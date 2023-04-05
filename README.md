@@ -64,12 +64,12 @@
 
 - **[Network Analysis of Game of Thrones](https://github.com/poojaparab/Network-Analysis-of-Game-of-Thrones)** : Performed co-occurrence network analysis of the characters in the 5 Game of Thrones books. Obtained a well-known character using degree of centrality, betweeness centrality and pegerank algorithm.
 
-- **[Predicting credit card approvals](https://github.com/poojaparab/predicting-credit-card-approvals)**: 
+- **[Predicting credit card approvals](https://github.com/poojaparab/predicting-credit-card-approvals)**: Performed Logistic regression on UCI credit card approval dataset. Additionally, performed gridsearchCV to find best performing model.
 
 
-- **[All the Data Mining course homework](https://github.com/poojaparab/Data-mining-homeworks)** 
+- **[All the Data Mining course homework](https://github.com/poojaparab/Data-mining-homeworks)** : Learned and Implemented PCA, Pagerank, Apriori, ANN, CNN and decision tree algorithms.
 
-- **[Scala's real world project repository data exploration](https://github.com/poojaparab/Scala-Real-world-Project-repository-Data-exploration)**
+- **[Scala's real world project repository data exploration](https://github.com/poojaparab/Scala-Real-world-Project-repository-Data-exploration)**: Performed Exploratory Data analysis on the dataset of real world project repository of Scala that spans data from a version control system (Git) as well as a project hosting site (GitHub).
 
 
 #
@@ -86,11 +86,3 @@
 #### *Resume*: [Download now!](https://github.com/poojaparab/poojaparab/blob/main/Pooja_Parab.pdf)
 
 #
-
-
-
-<!-- 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=poojaparab&show_icons=true&locale=en" alt="poojaparab" /></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=poojaparab&label=Profile%20views&color=0e75b6&style=flat" alt="poojaparab" /> </p>
- -->
