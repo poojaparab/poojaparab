@@ -5,7 +5,6 @@
 
 | <img align="center" src="https://github.com/poojaparab/poojaparab/blob/dev_1/Fotor_AI%20(1).png" alt="adam-pw" width="250" /> | <img align="center" src="https://github.com/poojaparab/poojaparab/blob/dev_1/Fotor_AI.png" alt="adam-pw" width="250"/> |
 | --- | --- |
-<div align="left>
 <h5 align="center">effortlessly shifts between world's of coding and novel-induced euphoria - that's me!</h5>
 </center>
 
