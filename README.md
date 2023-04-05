@@ -30,14 +30,17 @@
 
 <img align="left" width="250" height="175" src="https://github.com/poojaparab/poojaparab/blob/dev_1/uberlyft.jpg">**[Uber and Lyft Fare Prediction Model](https://github.com/poojaparab/UBER-and-Lyft-Fare-Prediction-Model)**
 
-- Objective: Created fare price prediction model for ride hailing companies Uber and Lyft in the greater Boston area. 
-- Implementaion: Using Linear regression with closed form solution and stocastic gradient descent. Explored the impact of regularization by trying Ridge, Lasso, Elastic-Net, penalty term and hyperparameters like batch size and learning rate. Developed the same in polynomial regression.
+**Objective**: Created fare price prediction model for ride hailing companies Uber and Lyft in the greater Boston area. 
+
+**Implementaion**: Using Linear regression with closed form solution and stocastic gradient descent. Explored the impact of regularization by trying Ridge, Lasso, Elastic-Net, penalty term and hyperparameters like batch size and learning rate. Developed the same in polynomial regression.
+
+#
 
 <img align="left" width="250" height="175" src="https://github.com/poojaparab/poojaparab/blob/dev_1/absa.png">**[Aspect Based Sentiment Analysis](https://github.com/poojaparab/Aspect-Based-Sentiment-Analysis)**
 
-- Objective: Extracting the aspect, opinion about the aspect and polarity of the opinion word.
+**Objective**: Extracting the aspect, opinion about the aspect and polarity of the opinion word.
 
-- Implementaion: Using Corefernce Resolution (with nerualcoref library), Stanza (previously standfordcore NLP) , textblob and fundamental grammer rules extracted aspect, opinion and polarity.
+**Implementaion**: Using Corefernce Resolution (with nerualcoref library), Stanza (previously standfordcore NLP) , textblob and fundamental grammer rules extracted aspect, opinion and polarity.
 
 
 <!-- 
