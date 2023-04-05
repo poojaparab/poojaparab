@@ -2,7 +2,7 @@
 <h3 align="center">Graduate Data Science Student at Indiana University, Bloomington.</h3>
 
 
-| <img align="left" src="https://github.com/poojaparab/poojaparab/blob/dev_1/Fotor_AI%20(1).png" alt="adam-pw" width="250" height="200"/> | <img align="right" src="https://github.com/poojaparab/poojaparab/blob/dev_1/Fotor_AI.png" alt="adam-pw" width="250" height="200"/> |
+| <img align="center" src="https://github.com/poojaparab/poojaparab/blob/dev_1/Fotor_AI%20(1).png" alt="adam-pw" width="250" height="300"/> | <img align="center" src="https://github.com/poojaparab/poojaparab/blob/dev_1/Fotor_AI.png" alt="adam-pw" width="250" height="300"/> |
 | --- | --- |
 <h5 align="center">effortlessly shifts between world's of coding and novel-induced euphoria - that's me!</h5>
 
