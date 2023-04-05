@@ -1,11 +1,10 @@
 <h1 align="center">Hi👋, I'm Pooja Parab</h1>
-<!-- <h3 align="center">Graduate Data Science Student at Indiana University, Bloomington.</h3> -->
 
 <div align="center">
 
 | <img src="https://github.com/poojaparab/poojaparab/blob/dev_1/Fotor_AI%20(1).png" alt="adam-pw" width="250" /> | <img src="https://github.com/poojaparab/poojaparab/blob/dev_1/Fotor_AI.png" alt="adam-pw" width="250"/> |
 | --- | --- |
-<h5>effortlessly shifts between world's of coding and novel-induced euphoria - that's me!</h5>
+<h5>effortlessly shifts between world of data and novel-induced euphoria - that's me!</h5>
 </div>
 
 
@@ -29,6 +28,8 @@
 # My Projects:
 
 <!-- <img align="left" width="250" height="150" src=""> -->
+
+<img align="left" width="250" height="150" src="">**[Uber and Lyft Fare Prediction Model](https://github.com/poojaparab/UBER-and-Lyft-Fare-Prediction-Model)**
 
 
 <!-- 
