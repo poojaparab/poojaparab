@@ -52,7 +52,7 @@
 
 #
 
-<img align="left" width="250" height="200" src="https://github.com/poojaparab/poojaparab/blob/dev_1/olist.png">**[Price Optimization of E-commerce Platform](https://github.com/poojaparab/Price-Optimization-of-E-commerce-platform)**
+<img align="left" width="250" height="200" src="https://github.com/poojaparab/poojaparab/blob/dev_1/olist_.png">**[Price Optimization of E-commerce Platform](https://github.com/poojaparab/Price-Optimization-of-E-commerce-platform)**
 
 **Objective**: Attempted to predict the best best optimal price of the product yet increase their profit margin using data mining techniques, Regression models (Linear Ridge, Lasso) and demad curve.
 
