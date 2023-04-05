@@ -52,15 +52,6 @@
 
 <br>
 
-
-<img align="left" width="250" height="200" src="https://github.com/poojaparab/poojaparab/blob/dev_1/olist_.png">**[Price Optimization of E-commerce Platform](https://github.com/poojaparab/Price-Optimization-of-E-commerce-platform)**
-
-**Objective**: Attempted to predict the best best optimal price of the product yet increase their profit margin using data mining techniques, Regression models (Linear Ridge, Lasso) and demad curve.
-
-**Implementation**: Used linear regression, principal component analysis. Plotted a demand curve by using profit and demand functions to get the optimal price of the product.
-
-#
-
 <img align="left" width="250" height="200" src="https://github.com/poojaparab/poojaparab/blob/dev_1/spotify-logo-1920x1080.jpg">**[Spotify Hit Songs Predictor](https://github.com/poojaparab/Spotify-hit-song-predictor)**
 
 **Objective**: To predict the spotify songs from 1960s-2010s will be hit or miss.
@@ -71,8 +62,6 @@
 
 <br>
 
-<<<<<<< HEAD
-=======
 <img align="left" width="250" height="200" src="https://github.com/poojaparab/poojaparab/blob/dev_1/olist_.png">**[Price Optimization of E-commerce Platform](https://github.com/poojaparab/Price-Optimization-of-E-commerce-platform)**
 
 **Objective**: Attempted to predict the best best optimal price of the product yet increase their profit margin using data mining techniques, Regression models (Linear Ridge, Lasso) and demad curve.
@@ -83,7 +72,6 @@
 
 
 
->>>>>>> dev_1
 # Mirco-Projects
 
 - **[Network Analysis of Game of Thrones](https://github.com/poojaparab/Network-Analysis-of-Game-of-Thrones)** : Performed co-occurrence network analysis of the characters in the 5 Game of Thrones books. Obtained a well-known character using degree of centrality, betweeness centrality and pegerank algorithm.
