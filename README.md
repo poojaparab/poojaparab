@@ -38,17 +38,7 @@
 
 <br/>
 
-
-<br>
-
-<img align="left" width="250" height="200" src="https://github.com/poojaparab/poojaparab/blob/dev_1/absa.png">**[Aspect Based Sentiment Analysis](https://github.com/poojaparab/Aspect-Based-Sentiment-Analysis)**
-
-**Objective**: Extracting the aspect, opinion about the aspect and polarity of the opinion word.
-
-**Implementation**: Using Corefernce Resolution (with nerualcoref library), Stanza (previously standfordcore NLP) , textblob and fundamental grammer rules extracted aspect, opinion and polarity. Built a custom docker container, deployed it on AWS Sagemaker, and tested the robustness of the algorithm with the yelp dataset.
-
-<br/>
-
+#
 
 <br>
 
@@ -60,6 +50,20 @@
 
 <br/>
 
+#
+
+<br>
+
+<img align="left" width="250" height="200" src="https://github.com/poojaparab/poojaparab/blob/dev_1/absa.png">**[Aspect Based Sentiment Analysis](https://github.com/poojaparab/Aspect-Based-Sentiment-Analysis)**
+
+**Objective**: Extracting the aspect, opinion about the aspect and polarity of the opinion word.
+
+**Implementation**: Using Corefernce Resolution (with nerualcoref library), Stanza (previously standfordcore NLP) , textblob and fundamental grammer rules extracted aspect, opinion and polarity. Built a custom docker container, deployed it on AWS Sagemaker, and tested the robustness of the algorithm with the yelp dataset.
+
+<br/>
+
+#
+
 <br>
 
 <img align="left" width="250" height="200" src="https://github.com/poojaparab/poojaparab/blob/dev_1/olist_.png">**[Price Optimization of E-commerce Platform](https://github.com/poojaparab/Price-Optimization-of-E-commerce-platform)**
@@ -70,7 +74,9 @@
 
 <br/>
 
+#
 
+<br>
 
 # Mirco-Projects
 
@@ -83,6 +89,7 @@
 
 - **[Scala's real world project repository data exploration](https://github.com/poojaparab/Scala-Real-world-Project-repository-Data-exploration)**: Performed Exploratory Data analysis on the dataset of real world project repository of Scala that spans data from a version control system (Git) as well as a project hosting site (GitHub).
 
+<br/>
 
 #
 
