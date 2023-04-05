@@ -47,7 +47,7 @@
 
 **Objective**: Extracting the aspect, opinion about the aspect and polarity of the opinion word.
 
-**Implementation**: Using Corefernce Resolution (with nerualcoref library), Stanza (previously standfordcore NLP) , textblob and fundamental grammer rules extracted aspect, opinion and polarity. Built a custom docker container, deployed it on AWS Sagemaker, and tested the robustness of the algorithm with the yelp dataset.
+**Implementation**: Using Corefernce Resolution (nerualcoref library), Stanza (previously standfordcore NLP), textblob and fundamental grammer rules extracted aspect, opinion and polarity. Built a custom docker container, deployed it on AWS Sagemaker, and tested the robustness of the algorithm with the yelp dataset.
 #
 <img align="left" width="250" height="200" src="https://github.com/poojaparab/poojaparab/blob/main/olist_.png">**[Price Optimization of E-commerce Platform](https://github.com/poojaparab/Price-Optimization-of-E-commerce-platform)**
 
@@ -71,15 +71,19 @@
 <br/>
 
 #
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/parab_pooja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parab_pooja" height="30" width="40" /></a>
 <a href="https://kaggle.com/poojaparab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="poojaparab" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/poojaparab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="poojaparab" height="30" width="40" /></a>
 <a href="https://instagram.com/_pooja.parab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_pooja.parab" height="30" width="40" /></a>
 </p>
 
-#### *Email*: pooparab@iu.edu / poojaparab9035@gmail.com
-#### *Resume*: [Download now!](https://github.com/poojaparab/poojaparab/blob/main/Pooja_Parab.pdf)
+<div align="center">
+
+*Email*: pooparab@iu.edu / poojaparab9035@gmail.com
+
+*Resume*: [Download now!](https://github.com/poojaparab/poojaparab/blob/main/Pooja_Parab.pdf)
+<div/>
 
 
