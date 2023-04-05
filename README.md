@@ -50,15 +50,18 @@
 
 **Implementation**: Used Multinomial Logistic Regression, Support vector Machine, Random forest Classifier. Tried optimization of hyperparameters to maximize the performance. Implemented ensemble learning on individual outperforming classifiers.
 
+
 #
 
-<img align="left" width="250" height="200" src="https://github.com/poojaparab/poojaparab/blob/dev_1/olist_.png">**[Price Optimization of E-commerce Platform](https://github.com/poojaparab/Price-Optimization-of-E-commerce-platform)**
+
+<img align="left" width="220" height="200" src="https://github.com/poojaparab/poojaparab/blob/dev_1/olist_.png">**[Price Optimization of E-commerce Platform](https://github.com/poojaparab/Price-Optimization-of-E-commerce-platform)**
 
 **Objective**: Attempted to predict the best best optimal price of the product yet increase their profit margin using data mining techniques, Regression models (Linear Ridge, Lasso) and demad curve.
 
 **Implementation**: Used linear regression, principal component analysis. Plotted a demand curve by using profit and demand functions to get the optimal price of the product.
 
 #
+
 
 # Mirco-Projects
 
