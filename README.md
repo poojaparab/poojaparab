@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| <img src="https://github.com/poojaparab/poojaparab/blob/dev_1/Fotor_AI%20(1).png" alt="adam-pw" width="250" /> | <img src="https://github.com/poojaparab/poojaparab/blob/dev_1/Fotor_AI.png" alt="adam-pw" width="250"/> |
+| <img src="https://github.com/poojaparab/poojaparab/blob/main/Fotor_AI%20(1).png" alt="adam-pw" width="250" /> | <img src="https://github.com/poojaparab/poojaparab/blob/main/Fotor_AI.png" alt="adam-pw" width="250"/> |
 | --- | --- |
 <h5>Effortlessly shifts between world of data and novel-induced euphoria - that's me!</h5>
 </div>
@@ -26,7 +26,7 @@
 - DataCamp: [Profile](https://app.datacamp.com/profile/poojaparab9035)
 
 # Projects:
-<img align="left" width="250" height="200" src="https://github.com/poojaparab/poojaparab/blob/dev_1/uberlyft.webp">**[Uber and Lyft Fare Prediction Model](https://github.com/poojaparab/UBER-and-Lyft-Fare-Prediction-Model)**
+<img align="left" width="250" height="200" src="https://github.com/poojaparab/poojaparab/blob/main/uberlyft.webp">**[Uber and Lyft Fare Prediction Model](https://github.com/poojaparab/UBER-and-Lyft-Fare-Prediction-Model)**
 
 **Objective**: Created fare price prediction model for ride hailing companies Uber and Lyft in the greater Boston area. 
 
@@ -34,7 +34,7 @@
 <br>
 <br>
 #
-<img align="left" width="250" height="200" src="https://github.com/poojaparab/poojaparab/blob/dev_1/spotify-logo-1920x1080.jpg">**[Spotify Hit Songs Predictor](https://github.com/poojaparab/Spotify-hit-song-predictor)**
+<img align="left" width="250" height="200" src="https://github.com/poojaparab/poojaparab/blob/main/spotify-logo-1920x1080.jpg">**[Spotify Hit Songs Predictor](https://github.com/poojaparab/Spotify-hit-song-predictor)**
 
 **Objective**: To predict the spotify songs from 1960s-2010s will be hit or miss.
 
@@ -43,13 +43,13 @@
 <br>
 <br>
 #
-<img align="left" width="250" height="200" src="https://github.com/poojaparab/poojaparab/blob/dev_1/absa.png">**[Aspect Based Sentiment Analysis](https://github.com/poojaparab/Aspect-Based-Sentiment-Analysis)**
+<img align="left" width="250" height="200" src="https://github.com/poojaparab/poojaparab/blob/main/absa.png">**[Aspect Based Sentiment Analysis](https://github.com/poojaparab/Aspect-Based-Sentiment-Analysis)**
 
 **Objective**: Extracting the aspect, opinion about the aspect and polarity of the opinion word.
 
 **Implementation**: Using Corefernce Resolution (with nerualcoref library), Stanza (previously standfordcore NLP) , textblob and fundamental grammer rules extracted aspect, opinion and polarity. Built a custom docker container, deployed it on AWS Sagemaker, and tested the robustness of the algorithm with the yelp dataset.
 #
-<img align="left" width="250" height="200" src="https://github.com/poojaparab/poojaparab/blob/dev_1/olist_.png">**[Price Optimization of E-commerce Platform](https://github.com/poojaparab/Price-Optimization-of-E-commerce-platform)**
+<img align="left" width="250" height="200" src="https://github.com/poojaparab/poojaparab/blob/main/olist_.png">**[Price Optimization of E-commerce Platform](https://github.com/poojaparab/Price-Optimization-of-E-commerce-platform)**
 
 **Objective**: Attempted to predict the best best optimal price of the product yet increase their profit margin using data mining techniques, Regression models (Linear Ridge, Lasso) and demad curve.
 
