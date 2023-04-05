@@ -50,9 +50,7 @@
 
 **Implementation**: Used Multinomial Logistic Regression, Support vector Machine, Random forest Classifier. Tried optimization of hyperparameters to maximize the performance. Implemented ensemble learning on individual outperforming classifiers.
 
-
 #
-
 
 <img align="left" width="220" height="200" src="https://github.com/poojaparab/poojaparab/blob/dev_1/olist_.png">**[Price Optimization of E-commerce Platform](https://github.com/poojaparab/Price-Optimization-of-E-commerce-platform)**
 
