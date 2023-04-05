@@ -28,7 +28,7 @@
 # My Projects:
 
 
-<img align="left" width="250" height="175" src="https://github.com/poojaparab/poojaparab/blob/dev_1/uberlyft.jpg">**[Uber and Lyft Fare Prediction Model](https://github.com/poojaparab/UBER-and-Lyft-Fare-Prediction-Model)**
+<img align="left" width="250" height="175" src="https://github.com/poojaparab/poojaparab/blob/dev_1/uberlyft.webp">**[Uber and Lyft Fare Prediction Model](https://github.com/poojaparab/UBER-and-Lyft-Fare-Prediction-Model)**
 
 **Objective**: Created fare price prediction model for ride hailing companies Uber and Lyft in the greater Boston area. 
 
