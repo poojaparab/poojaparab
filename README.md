@@ -4,8 +4,6 @@
 
 | <img src="https://github.com/poojaparab/poojaparab/blob/main/ace.png" alt="adam-pw" width="200" /> | <img src="https://github.com/poojaparab/poojaparab/blob/main/gcpmle.png" alt="adam-pw" width="200"/> | <img src="https://github.com/poojaparab/poojaparab/blob/main/aws_solution_arch.png" alt="adam-pw" width="200"/> |
 | --- | --- | --- |
-<h4>Effortlessly shifts between world of data and novel-induced euphoria - that's me!</h4>
-</div>
 
 
 
@@ -16,12 +14,13 @@
 ### Interests: Machine Learning, Algorithms, Data science, Data Engineering. 
 
 ### Achievements/Certifications:
+- GCP Professional Machine Learning Engineer
 - AWS Certified Solution - Architect
 - GCP Certified Associate Cloud Engineer
 - Worked as Data Science Research assitant at O'Neill School of public and environmental affairs
 
 ### Currently Learning:
-- Preparing for GCP Professional Machine Learning Certification
+- Preparing for Tensorflow Developer Certification
 - Coursera: Machine Learning 
 - DataCamp: [Profile](https://app.datacamp.com/profile/poojaparab9035)
 
