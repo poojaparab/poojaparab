@@ -2,8 +2,8 @@
 
 <div align="center">
 
-| <img src="https://github.com/poojaparab/poojaparab/blob/main/Fotor_AI%20(1).png" alt="adam-pw" width="250" /> | <img src="https://github.com/poojaparab/poojaparab/blob/main/Fotor_AI.png" alt="adam-pw" width="250"/> |
-| --- | --- |
+| <img src="https://github.com/poojaparab/poojaparab/blob/main/ace.png" alt="adam-pw" width="200" /> | <img src="https://github.com/poojaparab/poojaparab/blob/main/gcpmle.png" alt="adam-pw" width="200"/> | <img src="https://github.com/poojaparab/poojaparab/blob/main/aws_solution_arch.png" alt="adam-pw" width="200"/> |
+| --- | --- | --- |
 <h4>Effortlessly shifts between world of data and novel-induced euphoria - that's me!</h4>
 </div>
 
