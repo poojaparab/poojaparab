@@ -13,6 +13,8 @@
 
 ### Interests: Machine Learning, Algorithms, Data science, Data Engineering. 
 
+<div align="left">
+
 ### Achievements/Certifications:
 - GCP Professional Machine Learning Engineer
 - AWS Certified Solution - Architect
@@ -23,6 +25,8 @@
 - Preparing for Tensorflow Developer Certification
 - Coursera: Machine Learning 
 - DataCamp: [Profile](https://app.datacamp.com/profile/poojaparab9035)
+
+<div/>
 
 # Projects:
 <img align="left" width="250" height="200" src="https://github.com/poojaparab/poojaparab/blob/main/uberlyft.webp">**[Uber and Lyft Fare Prediction Model](https://github.com/poojaparab/UBER-and-Lyft-Fare-Prediction-Model)**
