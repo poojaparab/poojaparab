@@ -19,11 +19,11 @@
 - GCP Professional Machine Learning Engineer
 - AWS Certified Solution - Architect
 - GCP Certified Associate Cloud Engineer
+- Coursera: Machine Learning 
 - Worked as Data Science Research assitant at O'Neill School of public and environmental affairs
 
 ### Currently Learning:
 - Preparing for Tensorflow Developer Certification
-- Coursera: Machine Learning 
 - DataCamp: [Profile](https://app.datacamp.com/profile/poojaparab9035)
 
 <div/>
