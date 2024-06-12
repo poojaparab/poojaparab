@@ -11,7 +11,7 @@
 
 ### Graduate Data Science Student at Indiana University, Bloomington.
 
-### Interests: Machine Learning, Algorithms, Data science, Data Engineering. 
+<!-- ### Interests: Machine Learning, Algorithms, Data science, Data Engineering. 
 
 <div align="left">
 
@@ -24,7 +24,7 @@
 ### Currently Learning:
 - Preparing for Tensorflow Developer Certification
 - Coursera: Machine Learning 
-- DataCamp: [Profile](https://app.datacamp.com/profile/poojaparab9035)
+- DataCamp: [Profile](https://app.datacamp.com/profile/poojaparab9035) -->
 
 <div/>
 
